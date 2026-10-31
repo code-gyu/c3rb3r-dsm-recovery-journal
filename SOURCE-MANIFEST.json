@@ -1,0 +1,45 @@
+{
+  "schema": "c3rb3r-source-review-v1",
+  "review_date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "case_evidence_cutoff": "2026-10-31T16:08:00+08:00",
+  "private_threads_reviewed_to_oldest": 6,
+  "private_chats_distributed": false,
+  "original_report": {
+    "title": "群晖勒索病毒排障与数据恢复全过程.md",
+    "version": "1.1",
+    "sha256": "bb35c5510fa71e72e707200f1985a9797323f4a96b74c736ac8d13e38b848938",
+    "publication": "sanitized historical copy with explicit later-status notice"
+  },
+  "repositories": [
+    {
+      "url": "https://github.com/soimy/c3rb3r-rescue",
+      "commit": "ef18b9980cccfe8326b16557c6b48933a80e0c99",
+      "third_party_code_bundled": false
+    },
+    {
+      "url": "https://github.com/sunkangbo121-ship-it/c3rb3r-btrfs-extent-rescue",
+      "commit": "6394239d8ea95cc995c5900c8b8fa5790559a5f6",
+      "third_party_code_bundled": false
+    },
+    {
+      "url": "https://github.com/crt106/c3rb3r-btrfs-recovery",
+      "commit": "15798509b61b112704636154ba8132d60ff76599",
+      "third_party_code_bundled": false
+    }
+  ],
+  "scope": "Read documentation, structure, license and selected interfaces; no upstream recovery code executed or NAS connection.",
+  "platform_revision": {
+    "date": "2026-10-31",
+    "workstation_scope": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "local_execution_verified": [
+      "macOS"
+    ],
+    "remote_ci_results": "not yet available",
+    "historical_case_workstation": "macOS"
+  }
+}

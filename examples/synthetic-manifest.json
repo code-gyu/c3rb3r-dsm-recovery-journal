@@ -1,0 +1,19 @@
+{
+  "schema": "c3rb3r-audit-v1",
+  "complete": true,
+  "errors": [],
+  "records": [
+    {
+      "path": "Demo.JPG.L0CK3D",
+      "kind": "file",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "demo.jpg",
+      "kind": "file",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
